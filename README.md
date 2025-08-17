@@ -1,4 +1,6 @@
-# 🦌 OxlVPN
+# OxlVPN
+
+![OxlVPN Logo](images/logo.png)
 
 **Simple, free CLI VPN for peeps who just want things to work.**
 
@@ -16,6 +18,8 @@ chmod +x oxl.sh
 
 That's it.
 
+![Main Menu](images/1.png)
+
 ## What Does It Do?
 
 - **Free VPN servers worldwide** - We scan for working free VPN endpoints
@@ -32,6 +36,10 @@ That's it.
 - **Live ping testing** - Shows you the fastest servers
 - **Session monitoring** - Track your upload/download in real-time
 - **Clean exits** - Always disconnects properly when you quit
+
+![VPN Server List](images/2.png)
+
+![Speed Test](images/3.png)
 
 ### The Honest Truth
 These are **free VPNs**. They're great for:
