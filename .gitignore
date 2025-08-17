@@ -1,0 +1,17 @@
+# Temporary files
+/tmp/
+*.tmp
+
+# VPN configurations (may contain sensitive data)
+*.conf
+*.ovpn
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Session data
+.session
